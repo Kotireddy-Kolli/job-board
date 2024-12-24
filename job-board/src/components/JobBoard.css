@@ -1,0 +1,20 @@
+.jobs-portal{
+    text-align: left;
+}
+.jobs-portal__job-con{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    box-shadow: 0 0 3px;
+    cursor: pointer;
+    margin: 1rem 0;
+}
+.jobs-portal__job-con__title{
+    font-weight: 800;
+}
+.jobs-portal__job-con__postDetails{
+    font-weight: 100;
+}
+.jobs-portal__job-con__postBy{
+    padding: 0 1rem 0 0;
+}
